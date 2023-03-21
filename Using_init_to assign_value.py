@@ -4,6 +4,6 @@ class my_class:
         self.age = age
 name = "Dog"
 age="2"
-mu_code = my_class()
+mu_code = my_class(name,age)
 
 print(mu_code.name)
